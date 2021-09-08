@@ -1,0 +1,41 @@
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.deps.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.dev.json
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csprojAssemblyReference.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfoInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfo.cs
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csproj.CoreCompileInputs.cache
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\obj\Debug\netcoreapp3.1\DIO.Veiculos.csproj.AssemblyReference.cache
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\obj\Debug\netcoreapp3.1\DIO.Veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\obj\Debug\netcoreapp3.1\DIO.Veiculos.AssemblyInfoInputs.cache
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\obj\Debug\netcoreapp3.1\DIO.Veiculos.AssemblyInfo.cs
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\obj\Debug\netcoreapp3.1\DIO.Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\obj\Debug\netcoreapp3.1\DIO.Veiculos.dll
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\obj\Debug\netcoreapp3.1\DIO.Veiculos.pdb
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\bin\Debug\netcoreapp3.1\DIO.Veiculos.exe
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\bin\Debug\netcoreapp3.1\DIO.Veiculos.deps.json
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\bin\Debug\netcoreapp3.1\DIO.Veiculos.runtimeconfig.json
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\bin\Debug\netcoreapp3.1\DIO.Veiculos.runtimeconfig.dev.json
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\bin\Debug\netcoreapp3.1\DIO.Veiculos.dll
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\bin\Debug\netcoreapp3.1\DIO.Veiculos.pdb
+C:\Users\VICTOR\Documents\Victor Barros\DIO\DIO_Veículos\obj\Debug\netcoreapp3.1\DIO.Veiculos.genruntimeconfig.cache
