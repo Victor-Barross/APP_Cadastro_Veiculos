@@ -66,8 +66,6 @@ namespace DIO.Veiculos
 			Console.Write("Digite o id do veículo: ");
 			int indiceVeiculos = int.Parse(Console.ReadLine());
 
-			// https://docs.microsoft.com/pt-br/dotnet/api/system.enum.getvalues?view=netcore-3.1
-			// https://docs.microsoft.com/pt-br/dotnet/api/system.enum.getname?view=netcore-3.1
 			foreach (int i in Enum.GetValues(typeof(Marca)))
 			{
 				Console.WriteLine("{0}-{1}", i, Enum.GetName(typeof(Marca), i));
